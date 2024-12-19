@@ -1,6 +1,6 @@
 # TimeEase: Your AI-Driven Time Management Assistant
 
-Welcome to **TimeEase**, a project designed to revolutionize time management for students! Built during the **ColorStacks Hackathon** by **Team Code Queens**, this app leverages AI to help users manage their schedules, prioritize tasks, and achieve balance across academics, hobbies, and personal well-being. 
+Welcome to **TimeEase**, a project designed to revolutionize time management for students! Built during the **ColorStacks Winter Hackathon** by **Code Queens (Team Name)**, this app leverages AI to help users manage their schedules, prioritize tasks, and achieve balance across academics, hobbies, and personal well-being. 
 
 ---
 
